@@ -7,6 +7,7 @@ leplusorg/docker-img
 leplusorg/docker-json
 leplusorg/docker-kali
 leplusorg/docker-latex
+leplusorg/docker-maven-check-versions
 leplusorg/docker-pdf
 leplusorg/docker-pgp-verify-jar
 leplusorg/docker-qrcode

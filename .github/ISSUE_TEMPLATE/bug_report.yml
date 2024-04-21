@@ -1,8 +1,11 @@
 ---
 name: Bug report
 description: Create a bug report
+title: "[Bug]: "
 labels:
   - bug
+assignees:
+  - thomasleplus
 body:
   - type: markdown
     attributes:

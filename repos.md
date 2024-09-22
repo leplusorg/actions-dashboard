@@ -17,4 +17,3 @@ leplusorg/docker-xml
 leplusorg/docker-yaml
 leplusorg/openid-connect-provider-debugger
 leplusorg/ristretto
-

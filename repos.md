@@ -3,6 +3,8 @@ leplusorg/.github
 leplusorg/actions-dashboard
 leplusorg/docker-av
 leplusorg/docker-aws-cli
+leplusorg/docker-compress
+leplusorg/docker-crypt
 leplusorg/docker-csv
 leplusorg/docker-hash
 leplusorg/docker-img

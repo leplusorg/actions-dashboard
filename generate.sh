@@ -45,6 +45,7 @@ parse_repo() {
     
     writeout " [![GitHub PR](https://img.shields.io/github/issues/${1}.svg)](https://gitHub.com/${1}/issues)"
     writeout " [![GitHub PR](https://img.shields.io/github/issues-pr/${1}.svg)](https://gitHub.com/${1}/pulls)"
+    writeout " [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/${1}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/${1})"
     
     writeout " |\n"
     echo " Generated markdown for $1"

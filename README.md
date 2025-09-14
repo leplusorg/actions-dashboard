@@ -26,13 +26,6 @@ Input files must have a GitHub repository name per line that follows the syntax
 
 Lines beginning with `#` are treated as comments.
 
-E.g.
-
-```sh
-./generate.sh -o samples/gcp.md -i samples/gcp-repos \
-  -i https://raw.githubusercontent.com/arjun024/actions-dashboard/master/samples/some-other-gcp-repos
-```
-
 ## Auto-regenerate
 
 You can use a [github-workflow like

@@ -1,6 +1,7 @@
 leplusorg/.allstar
 leplusorg/.github
 leplusorg/actions-dashboard
+leplusorg/catchme
 leplusorg/docker-adoc
 leplusorg/docker-av
 leplusorg/docker-aws-cli
